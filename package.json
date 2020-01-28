@@ -1,0 +1,23 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Make a Blockchain with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cielgrisdemoscou/typechain.git"
+  },
+  "author": "Ted.H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cielgrisdemoscou/typechain/issues"
+  },
+  "homepage": "https://github.com/cielgrisdemoscou/typechain#readme",
+  "dependencies": {
+    "typescript": "^3.7.5"
+  }
+}
