@@ -1,2 +1,4 @@
-# typechain
-Make a Blockchain with Typescript
+# TypeChain
+Make a simple Blockchain with Typescript.
+
+
